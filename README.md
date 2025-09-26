@@ -6,11 +6,11 @@ A comprehensive network of AI agent configurations designed to provide support f
 
 **These tools are not replacements for professional mental health support.** They are intended as adjuncts to professional therapeutic care. Most configurations contain explicit guardrail instructions emphasizing this limitation. If you are in crisis or need immediate support, please contact a mental health professional or crisis helpline.
 
-## 🎯 Purpose
+## Purpose
 
 This repository captures a wide range of therapeutic use cases for AI assistance, providing fast and positive support for those living with the painful and destructive patterns of behavior exhibited by personality disordered individuals. While not intended as a definitive list, it provides a strong foundation that may be expanded in the future.
 
-## 📁 Repository Structure
+## Repository Structure
 
 The `configs` folder contains individual system prompts organized into categories:
 
@@ -31,17 +31,17 @@ Each markdown file contains:
 - The complete system prompt
 - Implementation guidance
 
-## 🚀 Implementation Options
+## Implementation Options
 
 ### Basic Implementation
 Create these as system prompts in any AI frontend that supports system prompt configuration:
 
-**Self-Hosted Platforms:**
+**Self-Hosted platforms:**
 - Open Web UI
 - LibreChat
 - Other open-source AI interfaces
 
-**Managed Platforms:**
+**Managed platforms:**
 - Custom GPTs (OpenAI)
 - Google Gemini Gems
 - Claude Projects
@@ -57,7 +57,7 @@ The repository structure supports a methodical approach to AI-assisted therapy:
 - Markdown-based output storage for cloud synchronization
 - Systematic preservation of AI outputs as valuable therapeutic data
 
-## 📊 Available Configurations
+## Available Configurations
 
 | Agent Name | Category | Configuration |
 |------------|----------|---------------|
@@ -83,7 +83,7 @@ The repository structure supports a methodical approach to AI-assisted therapy:
 | Healthy Future Builder | Strategy | [![View Config](https://img.shields.io/badge/View-Config-blue)](configs/strategy/future-builder.md) |
 | Reality Check Validator | Support | [![View Config](https://img.shields.io/badge/View-Config-blue)](configs/support/sanity-check.md) |
 
-## 💡 Philosophy: AI Outputs as Valuable Data
+## Philosophy: AI Outputs as Valuable Data
 
 This repository embodies the principle that AI outputs should not be treated as throwaway or ephemeral data. In therapeutic contexts especially, systematic organization and storage of AI-generated insights, strategies, and documentation can provide immense value over time.
 
@@ -94,7 +94,7 @@ The repository structure supports:
 - Referenceable therapeutic insights
 
 
-## 📄 License
+## License
 
 This repository is provided for educational and therapeutic support purposes. 
 
